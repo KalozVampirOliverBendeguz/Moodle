@@ -1,0 +1,72 @@
+{% extends "layout.html" %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - Moodle</title>
+    <link rel="stylesheet" type="text/css" href="/static/content/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/static/content/site.css" />
+    <script src="/static/scripts/modernizr-2.6.2.js"></script>
+    <script>
+        function showEnrolledUsers(courseId) {
+            fetch(`/course_enrollments?course_id=${courseId}`)
+                .then(response => response.json())
+                .then(data => {
+                    const enrolledUsers = data.users.join(', ');
+                    alert(`Enrolled users: ${enrolledUsers}`);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        }
+    </script>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">Courses</h1>
+        <form action="{{ url_for('moodle') }}" method="GET" class="mb-3">
+            <div class="form-group">
+                <label for="degree_filter">Filter by Degree:</label>
+                <select name="degree_filter" id="degree_filter" class="form-control">
+                    <option value="">All Degrees</option>
+                    {% for degree in degrees %}
+                    <option value="{{ degree.id }}">{{ degree.name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </form>
+        <ul class="list-group">
+            {% for course in courses %}
+            <li class="list-group-item">
+                {{ course.name }}
+                <form action="{{ url_for('enroll') }}" method="post" class="d-inline">
+                    <input type="hidden" name="course_id" value="{{ course.id }}">
+                    <button type="submit" class="btn btn-primary btn-sm ml-2">Enroll</button>
+                </form>
+                <button type="button" class="btn btn-info btn-sm ml-2" onclick="showEnrolledUsers({{ course.id }})">Enrolled Users</button>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="container mt-3">
+        <a href="{{ url_for('my_courses') }}" class="btn btn-primary">My Courses</a>
+    </div>
+
+    <h2 style="text-align: center;">Events</h2>
+    <ul style="text-align: center;">
+        {% for event in events %}
+        <li>
+            <strong>{{ event.name }}</strong>: {{ event.description }}
+        </li>
+        {% endfor %}
+    </ul>
+
+</body>
+
+</html>
+{% endblock %}
