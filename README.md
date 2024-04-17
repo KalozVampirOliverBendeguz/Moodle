@@ -1,4 +1,4 @@
-##Telepítendő csomagok:
+Telepítendő csomagok:
 A következő Python csomagok telepítése szükséges az API futtatásához.
 ''bash
 Python 3.x telepítése a rendszeren
