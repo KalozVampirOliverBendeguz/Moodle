@@ -9,7 +9,7 @@
 
 ## Telepítés
 
-### Klónozzuk le a Moodle_rf projektet a GitHubról.
+- Klónozzuk le a Moodle_rf projektet a GitHubról.
 ### Navigáljunk a projekt en belül a Moodle-2.-Beadando mappába a terminálban.
 ### Következő parancs futtatása:
 ```bash
