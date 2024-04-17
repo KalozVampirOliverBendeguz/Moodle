@@ -25,7 +25,7 @@ pip install -r requirements.txt
 cd Moodle-2.-Beadando
 ```
 ```bash
-runserver.py
+python runserver.py
 ```
 - Ezután a böngészőben a localhost:5555 címen tudjuk elérni az alkalmazást
 - Belépéshez a "Tibor22" felhasználónevet a "password" jelszó kombinációt, vagy a "Geza32" felhasználónevet a "password" jelszó kombinációt használja
