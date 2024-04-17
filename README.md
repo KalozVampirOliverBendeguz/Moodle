@@ -8,8 +8,9 @@ XAMPP (for local database access, version 8.2.12 used)
 
 
 ## Telepítés
-Klónozzuk le a Moodle_rf projektet a GitHubról.
-Navigáljunk a projekt gyökerébe a terminálban.
+
+Item 1 Klónozzuk le a Moodle_rf projektet a GitHubról.
+Navigáljunk a projekt en belül a Moodle-2.-Beadando mappába a terminálban.
 Következő parancs futtatása:
 ```bash
 pip install -r requirements.txt
