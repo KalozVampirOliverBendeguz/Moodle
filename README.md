@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 ### Adatbázis konfiguráció:
 -Hozz létre egy "moodle" nevű adatbázist, ahova a gyökérkönyvtárban megadott moodle.sql-t importáld be.
-###Szerver indítása:
+### Szerver indítása:
 -Indítsd el a Flask fejlesztői szervert a következő paranccsal:
 ```bash
 python runserver.py
