@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - My courses</title>
+    <link rel="stylesheet" type="text/css" href="/static/content/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/static/content/site.css" />
+    <script src="/static/scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <div style="text-align: right; margin-right: 20px; margin-top: 10px;">
+        <form action="{{ url_for('logout') }}" method="POST">
+            <button type="submit" class="btn btn-danger">Log Out</button>
+        </form>
+    </div>
+    <h1 style="text-align: center;">My Courses</h1>
+    <ul style="text-align: center; list-style-type: none">
+        {% for course in courses %}
+        <li>
+            {{ course }}
+        </li>
+        {% endfor %}
+    </ul>
+    <div class="container mt-3">
+        <a href="{{ url_for('admin') }}" class="btn btn-primary">Admin Interface</a>
+    </div>
+</body>
+</html>
+{% endblock %}
