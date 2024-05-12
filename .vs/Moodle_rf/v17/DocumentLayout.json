@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\templates\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\moodle.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\templates\\moodle.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\templates\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\templates\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\mycourses.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\templates\\mycourses.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\templates\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\templates\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\Moodle_rf\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0811EAB0-F511-47CD-BA27-E06688695D31}|Moodle_rf\\Moodle_rf.pyproj|solutionrelative:Moodle_rf\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Moodle_rf||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "forms.py",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\forms.py",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\forms.py",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\forms.py",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\forms.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-16T16:00:15.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "database.py",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\database.py",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\database.py",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\database.py",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\database.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-16T16:02:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "__init__.py (Moodle_rf)",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\__init__.py",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\__init__.py",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\__init__.py",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-16T15:56:03.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\register.html",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\templates\\register.html",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\register.html",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\templates\\register.html",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T14:50:29.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mycourses.html",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\mycourses.html",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\templates\\mycourses.html",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\mycourses.html",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\templates\\mycourses.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-16T19:46:11.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moodle.html",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\moodle.html",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\templates\\moodle.html",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\moodle.html",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\templates\\moodle.html",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwFsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-16T17:23:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "layout.html",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\layout.html",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\templates\\layout.html",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\layout.html",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\templates\\layout.html",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-16T18:21:53.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\index.html",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\templates\\index.html",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\index.html",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\templates\\index.html",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-16T15:56:23.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\contact.html",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\templates\\contact.html",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\contact.html",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\templates\\contact.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-16T16:06:10.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin.html",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\admin.html",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\templates\\admin.html",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\admin.html",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\templates\\admin.html",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T17:30:15.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\about.html",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\templates\\about.html",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\templates\\about.html",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\templates\\about.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-16T18:21:49.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\views.py",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\views.py",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\views.py",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\views.py",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAANgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-16T15:54:10.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\models.py",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf\\models.py",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf\\models.py",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf\\models.py",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-16T16:00:27.138Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "runserver.py",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\runserver.py",
+              "RelativeDocumentMoniker": "Moodle_rf\\runserver.py",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\runserver.py",
+              "RelativeToolTip": "Moodle_rf\\runserver.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-16T15:55:50.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\requirements.txt",
+              "RelativeDocumentMoniker": "Moodle_rf\\requirements.txt",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\requirements.txt",
+              "RelativeToolTip": "Moodle_rf\\requirements.txt",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T16:43:07.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Moodle_rf",
+              "DocumentMoniker": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf.pyproj",
+              "RelativeDocumentMoniker": "Moodle_rf\\Moodle_rf.pyproj",
+              "ToolTip": "C:\\Users\\janos\\source\\repos\\Moodle_rf\\Moodle_rf\\Moodle_rf.pyproj",
+              "RelativeToolTip": "Moodle_rf\\Moodle_rf.pyproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-01T18:45:38.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
